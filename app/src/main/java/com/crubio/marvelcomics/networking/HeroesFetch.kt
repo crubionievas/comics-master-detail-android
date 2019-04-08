@@ -10,7 +10,7 @@ import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
-class HeroresFetch {
+class HeroesFetch {
     companion object {
         fun getHeroes() {
             val timestamp = System.currentTimeMillis().toString()

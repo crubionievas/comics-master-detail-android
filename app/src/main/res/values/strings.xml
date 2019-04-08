@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">Marvel Comics</string>
-    <string name="title_item_detail">Item Detail</string>
+    <string name="app_name" translatable="false">Marvel Comics</string>
+    <string name="home_title">Super heroes</string>
+    <string name="heroes_empty">No super heroes found</string>
+    <string name="networking_known_error_message">A known error has occurred: (%1$d) %2$s</string>
+    <string name="networking_error_message">An error has occurred: (%1$d) %2$s</string>
+    <string name="networking_failure_error_message">A failure error has occurred: %1$s</string>
+    <string name="accept">OK</string>
+    <string name="detail">Detail</string>
+    <string name="wiki">Wiki</string>
+    <string name="comics">Comics</string>
 </resources>

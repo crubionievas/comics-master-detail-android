@@ -1,0 +1,13 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="61dp"
+                android:background="@color/grey_fa">
+
+    <include android:id="@+id/hero_header"
+             android:layout_width="match_parent"
+             layout="@layout/hero_header"
+             android:layout_height="60dp"/>
+
+    <View style="@style/divider"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>
